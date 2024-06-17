@@ -1,9 +1,11 @@
 import './App.css'
+import ChickenParallax from './component/ChickenParallax'
 
 function App() {
 
   return (
     <>
+    <ChickenParallax/>
       <div id='contentContainer'>
           <section>
             <h2>Parallax Scrolling Website</h2>
